@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsTorture", "GenericsTorture\GenericsTorture.csproj", "{D28F7EFC-89DB-4433-A9BD-178814341368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D28F7EFC-89DB-4433-A9BD-178814341368}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{D28F7EFC-89DB-4433-A9BD-178814341368}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{D28F7EFC-89DB-4433-A9BD-178814341368}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{D28F7EFC-89DB-4433-A9BD-178814341368}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{D28F7EFC-89DB-4433-A9BD-178814341368}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{D28F7EFC-89DB-4433-A9BD-178814341368}.Debug|iPhone.Build.0 = Debug|iPhone
+		{D28F7EFC-89DB-4433-A9BD-178814341368}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{D28F7EFC-89DB-4433-A9BD-178814341368}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{D28F7EFC-89DB-4433-A9BD-178814341368}.Release|iPhone.ActiveCfg = Release|iPhone
+		{D28F7EFC-89DB-4433-A9BD-178814341368}.Release|iPhone.Build.0 = Release|iPhone
+		{D28F7EFC-89DB-4433-A9BD-178814341368}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{D28F7EFC-89DB-4433-A9BD-178814341368}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = GenericsTorture\GenericsTorture.csproj
+	EndGlobalSection
+EndGlobal
